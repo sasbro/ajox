@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+     <title>Some Title</title>
+     <entry>
+          <catchword>Munich</catchword>
+          <text>Some text about Munich</text>
+     </entry>
+     <entry>
+          <catchword>Cologne</catchword>
+          <text>Some text about Cologne</text>
+     </entry>
+</root>
